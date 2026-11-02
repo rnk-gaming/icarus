@@ -12,7 +12,8 @@ Thanks for helping. This file explains how the project is built and what a pull 
 ## Issues
 
 - **Bugs:** include the version shown in the app header, your browser, the steps to reproduce, and what you expected. A screenshot helps.
-- **Ideas:** describe the problem you want solved before the solution.
+- **Ideas:** describe the problem you want solved before the solution. An idea that needs talking through can start in [Discussions](https://github.com/rnk-gaming/icarus/discussions/categories/ideas).
+- **Questions:** ask in [Discussions](https://github.com/rnk-gaming/icarus/discussions/categories/q-a), not in an issue, so the answer is easy for the next player to find.
 - **Security problems:** do not post details in a public issue. Use **Report a vulnerability** on the repository's **Security** tab.
 
 ## Working on the code

@@ -397,6 +397,13 @@ Direct links:
 - ✨ [Feature Request](https://github.com/rnk-gaming/icarus/issues/new?labels=enhancement&template=feature_request.md)
 - 📋 [View All Issues](https://github.com/rnk-gaming/icarus/issues)
 
+Questions, ideas you want to talk through, or a herd you want to show off? Use [Discussions](https://github.com/rnk-gaming/icarus/discussions) instead:
+- ❓ [Ask a question](https://github.com/rnk-gaming/icarus/discussions/categories/q-a) about the tracker or breeding in Icarus
+- 💡 [Talk through an idea](https://github.com/rnk-gaming/icarus/discussions/categories/ideas) before it becomes a feature request
+- 🦕 [Show and tell](https://github.com/rnk-gaming/icarus/discussions/categories/show-and-tell): your herd, bloodlines and breeding plans
+
+Share screenshots or a CSV export, not your `herd_data.json` or files from the game's save folder: anything posted there is public.
+
 Found a security problem? Please don't post it in a public issue. Use **Report a vulnerability** on the repository's [Security tab](https://github.com/rnk-gaming/icarus/security).
 
 ---
