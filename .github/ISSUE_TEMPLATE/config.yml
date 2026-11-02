@@ -1,5 +1,11 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Ask a question
+    url: https://github.com/rnk-gaming/icarus/discussions/categories/q-a
+    about: Questions about using the tracker or about breeding in Icarus go to Discussions, so the answers help other players too.
+  - name: Talk through an idea
+    url: https://github.com/rnk-gaming/icarus/discussions/categories/ideas
+    about: Not sure an idea is ready for a feature request? Start a discussion first.
   - name: Report a security problem
     url: https://github.com/rnk-gaming/icarus/security/advisories/new
     about: Please do not post security problems in a public issue. Report them privately here.
